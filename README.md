@@ -1,1 +1,1 @@
-# CodeCademy_FashionBlog_
+# CodeCademy_FashionBlog_HTML_Project
